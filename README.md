@@ -6,6 +6,10 @@ This is a project from the textbook Operating Systems Concepts (9th edition) by 
 
 This project was assigned as part of a final project for my Operating Systems course (CS 252) taught at National Institute of Technology Karnataka, Odd semester of 2022.
 
+Done by 
+#### Sreedev Sreekumar https://github.com/SreeDev-4522
+#### Joshua Rozario Raymond https://github.com/joshuarozario07
+
 The specifications for the project are as follows:
 
 "Project 1—UNIX Shell and History Feature This project consists of designing a C program to serve as a shell interface that accepts user commands and then executes each command in a separate process. 
